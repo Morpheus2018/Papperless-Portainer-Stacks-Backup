@@ -1,6 +1,6 @@
 #!/bin/bash
 
-CONTAINER="<CONTAINER_NAME_OR_ID>"
+CONTAINER="<CONTAINER_ID>"
 BACKUP_DIR="<BACKUP_DIRECTORY_PATH>"
 TMP_DIR="/tmp/paperless_backup_tmp"
 LOGFILE="$BACKUP_DIR/docker_backup.log"
